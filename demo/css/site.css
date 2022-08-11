@@ -1,7 +1,7 @@
  html,
         body {
-            height: 400%;
-            width: 400%;
+            height: 800%;
+            width: 800%;
             padding: 0;
             margin: 0;
         }
@@ -10,10 +10,10 @@
             src: url('../fonts/segoeuil.ttf');
         }
         .main-container {
-            height: 400%;
-            width: 400%;
+            height: 800%;
+            width: 800%;
             background-color: #1d539d;
-            color: black;
+            color: yellow;
             padding-top: 8%;
             box-sizing: border-box;
             overflow-y: auto;
